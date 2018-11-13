@@ -1,0 +1,21 @@
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.Form1.resources
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.Resources.resources
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\bin\Debug\WavelengthCalculator.exe
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\bin\Debug\WavelengthCalculator.pdb
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\bin\Debug\WavelengthCalculator.xml
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.exe
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.xml
+C:\Users\User\Downloads\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.pdb
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.exe
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.xml
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.pdb
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\bin\Debug\WavelengthCalculator.exe
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\bin\Debug\WavelengthCalculator.pdb
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\bin\Debug\WavelengthCalculator.xml
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.Form1.resources
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.Resources.resources
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\College\Year 2\Term 1\Unit 15\A4\WavelengthCalculator\WavelengthCalculator\obj\x86\Debug\WavelengthCalculator.HelpScreen.resources
